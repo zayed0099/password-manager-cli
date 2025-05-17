@@ -20,7 +20,7 @@ def input_system():
     sekret = input("Enter Password: ")
     return sec_key(website, sekret)
 
-secret = "1234"
+secret = "1234" # change it before you use
 
 print("Do you have the Password to access the system?? ")
 try:
